@@ -14,7 +14,7 @@
 * acessar `cd server/src/main/resources` e adicionar dados do banco em
 *application.properties* 
 
-- spring.datasource.url=jdbc:mysql://localhost:3306/dbc
+- spring.datasource.url=jdbc:mysql://localhost:3306/db
 - spring.datasource.username=root
 - spring.datasource.password=root
 
